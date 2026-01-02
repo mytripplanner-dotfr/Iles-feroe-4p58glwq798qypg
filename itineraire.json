@@ -1,0 +1,179 @@
+{
+  "pays": "Iles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Nordique aux Îles Féroé : Entre Fjords et Sérénité",
+  "budget_total": "Environ 1200 - 1400 € par personne",
+  "duree": "4 jours",
+  "temps_vol": "4h30 (depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et découverte de Vágar",
+      "legende": "Atterrissage sur l'île de Vágar, porte d'entrée des Féroé. Après l'installation, une balade douce autour du lac Sørvágsvatn offre un premier aperçu des paysages dramatiques et apaisants de l'archipel. Une immersion immédiate dans la nature féroïenne, parfaite pour débuter le séjour en douceur.",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Vágar (FAE) et récupération de la voiture de location.",
+        "<strong>🛏️</strong>: Installation à l'hébergement à Sørvágur ou Miðvágur, pour une nuit paisible.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante autour du lac Sørvágsvatn (le \"lac suspendu\"), offrant des vues spectaculaires."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2772 }
+        },
+        {
+          "nom_recherche": "Lac Sørvágsvatn, Miðvágur",
+          "categorie": "Lac",
+          "coords": { "lat": 62.0460, "lng": -7.2160 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Indispensable pour explorer les îles à votre rythme. Réservez à l'avance, surtout en haute saison, pour garantir la disponibilité."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🐦",
+      "titre": "Excursion à Mykines et ses macareux",
+      "legende": "Une journée dédiée à l'île de Mykines, paradis des oiseaux marins. La traversée en ferry est une expérience en soi, suivie d'une randonnée facile vers le phare, offrant des vues imprenables et la rencontre avec les célèbres macareux. Une immersion totale dans la faune et la flore locales, loin de l'agitation.",
+      "lieu": "Mykines",
+      "activites": [
+        "<strong>🚢</strong>: Traversée en ferry vers Mykines depuis Sørvágur, une expérience pittoresque.",
+        "<strong>🚶‍♀️</strong>: Randonnée douce vers le phare de Mykines, observation des macareux moines et autres oiseaux marins.",
+        "<strong>☕</strong>: Pause détente au charmant village de Mykines avant le retour, pour savourer l'ambiance locale."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Port de Sørvágur, Sørvágur",
+          "categorie": "Port",
+          "coords": { "lat": 62.0729, "lng": -7.3005 }
+        },
+        {
+          "nom_recherche": "Mykines, Mykines",
+          "categorie": "Île",
+          "coords": { "lat": 62.1000, "lng": -7.5833 }
+        },
+        {
+          "nom_recherche": "Phare de Mykines, Mykines",
+          "categorie": "Phare",
+          "coords": { "lat": 62.1030, "lng": -7.6480 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Accès à Mykines",
+          "texte": "Le ferry dépend des conditions météo. Il est impératif de réserver à l'avance et de vérifier les horaires, car les places sont limitées."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Cascades, villages pittoresques et détente",
+      "legende": "Découvrez la majestueuse cascade de Múlafossur, emblème des Féroé, avant de flâner dans le charmant village de Gásadalur. L'après-midi est dédiée à la détente avec une expérience unique de sources chaudes naturelles ou un bain relaxant, offrant un moment de pure sérénité au cœur de paysages époustouflants.",
+      "lieu": "Vágar / Streymoy",
+      "activites": [
+        "<strong>📸</strong>: Visite de la cascade de Múlafossur et du village de Gásadalur, des incontournables pour leurs vues.",
+        "<strong>🚗</strong>: Route panoramique vers Streymoy via le tunnel sous-marin, une belle transition entre les îles.",
+        "<strong>♨️</strong>: Détente aux sources chaudes naturelles ou dans un bain chaud privé, pour un moment de relaxation profonde."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Cascade de Múlafossur, Gásadalur",
+          "categorie": "Cascade",
+          "coords": { "lat": 62.0800, "lng": -7.4300 }
+        },
+        {
+          "nom_recherche": "Gásadalur, Gásadalur",
+          "categorie": "Village",
+          "coords": { "lat": 62.0800, "lng": -7.4200 }
+        },
+        {
+          "nom_recherche": "The Floating Sauna, Tórshavn",
+          "categorie": "Sauna",
+          "coords": { "lat": 62.0100, "lng": -6.7700 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil détente",
+          "texte": "Plusieurs hébergements ou centres proposent des bains à remous ou saunas privés avec vue. Renseignez-vous pour une expérience exclusive et relaxante."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "👋",
+      "titre": "Découverte de Tórshavn et départ",
+      "legende": "Explorez Tórshavn, la plus petite capitale du monde, avec ses maisons colorées et son quartier historique de Tinganes. Profitez d'un dernier repas féroïen avant de rejoindre l'aéroport, emportant avec vous des souvenirs inoubliables de ces îles mystérieuses et apaisantes. Un dernier aperçu de la culture locale avant le retour.",
+      "lieu": "Tórshavn / Vágar",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Visite du quartier historique de Tinganes à Tórshavn, un lieu chargé d'histoire.",
+        "<strong>🛍️</strong>: Flânerie dans les rues de Tórshavn, découverte de l'artisanat local et des boutiques.",
+        "<strong>🍽️</strong>: Déjeuner typique avant de prendre la route vers l'aéroport, pour un dernier goût des Féroé.",
+        "<strong>✈️</strong>: Départ de l'aéroport de Vágar (FAE), la tête pleine de souvenirs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tinganes, Tórshavn",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 62.0090, "lng": -6.7730 }
+        },
+        {
+          "nom_recherche": "Tórshavn, Tórshavn",
+          "categorie": "Ville",
+          "coords": { "lat": 62.0100, "lng": -6.7700 }
+        },
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2772 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Ne partez pas sans un pull en laine féroïenne ou un objet d'artisanat local, parfaits pour prolonger l'esprit du voyage et offrir un cadeau unique."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 422 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 175 €/pers (location voiture + essence + tunnels)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 160 €/pers (40€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 225 €/pers (3 nuits en hôtel 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 100 €/pers (ferry Mykines, accès sites, sources chaudes)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Juin à Août", "symbole": "☀️" },
+    { "titre": "Mai et Septembre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Le temps est très changeant aux Féroé. Prévoyez des couches de vêtements, un imperméable et des chaussures de marche robustes, même en été.", "symbole": "🌦️" },
+    { "titre": "La monnaie est la Couronne Danoise (DKK). Les cartes de crédit sont largement acceptées, mais un peu de liquide peut être utile dans les petits villages.", "symbole": "💳" },
+    { "titre": "La location de voiture est fortement recommandée pour explorer les îles. La conduite est à droite. Attention aux moutons sur les routes !", "symbole": "🐑" },
+    { "titre": "La langue officielle est le féroïen, mais le danois et l'anglais sont couramment parlés, surtout dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-07-15/2026-07-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Féroé", "url": "https://www.yr.no/en/forecast/daily-table/1-255977/Faroe%20Islands/V%C3%A1gar/S%C3%B8rv%C3%A1gur", "symbole": "🌤️" },
+    { "legende": "Ferry Mykines", "titre": "Réserver ferry Mykines", "url": "https://www.ssl.fo/en/ferries/routes/mykines/", "symbole": "🚢" }
+  ]
+}
